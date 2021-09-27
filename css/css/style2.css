@@ -1,0 +1,21 @@
+h1 {
+    background-color: #ebe6e6;
+}
+
+div {
+    height: 50px;
+    width: 600px;
+    background-color: brown;
+}
+/* Estilo do quadro principal*/
+#quadro2 {
+    opacity: 0.6;
+}
+/* Estilo do segundo quadro */
+#quadro3 {
+    opacity: 0.3;
+}
+/* Estilo do terceiro quadro */
+#quadro4 {
+    opacity: 0.1;
+}

@@ -1,0 +1,25 @@
+/* #quadro {
+    height: 300px;
+    width: 300px;
+    /* background-color: red; */
+    /*margin: 50px auto;
+    /* background-image: url("../images/group.jpg");
+    background-size: cover;
+    background-blend-mode: luminosity; */
+    /* border-style: solid;
+    border-width: 2px;
+    border-color: blue; */
+    /* border: 5px solid red;
+    border-radius: 50%; */
+/*} */
+
+
+/* AQUI ATRIBUÍMOS ESTILO À UM PARÁGRAFO, COLOCAMOS BORDA, MARGIN E PADDING*/ */
+div {
+    border: 1px solid black;
+    margin: 50px;
+    /* top right bottom left */
+    padding: 25px 50px 75px 100px; 
+}
+
+
